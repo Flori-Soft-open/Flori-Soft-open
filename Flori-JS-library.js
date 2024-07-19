@@ -1,4 +1,4 @@
-FloriV =1.2
+FloriV =1.3
 function StartStopwatch() { // Use that to start the stopwatch
     V = 1
     StopwatchTime = 0
