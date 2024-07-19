@@ -46,4 +46,15 @@ function spamconsole() {
         Num = Num + 1
     }
 }
+function Wait() {
+    console.log ("Wait The Variable T in milliseconds then start your function Timespf ");
+    setTimeout(function() {
+        Timespf()
+
+
+    
+        },T); // Test
+
+
+}
 
