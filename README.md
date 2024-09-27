@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flori-Soft-open
 - 👀 I’m interested in programming and animals
-- 🌱 I’m currently learning Java Script and HTML
+- 🌱 I’m currently learning Java 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love programming and use Linux for every things.
 - my Mastodon: https://mastodon.social/@ComputerEcke
